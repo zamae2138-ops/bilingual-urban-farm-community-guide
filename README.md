@@ -3,9 +3,9 @@
 This repository documents a bilingual visual guide created during my summer role
 as an **Urban Farm Intern**.
 
-While working with the community, I noticed that many plant recipients—particularly
-Spanish-speaking community members—did not have accessible guidance on how to care
-for the plants they received. To address this gap, I designed a concise, visual,
+While working with the community, I noticed that many plant recipients, particularly
+Spanish-speaking community members did not have accessible guidance on how to care
+for the indoor plants they received. To address this gap, I designed a concise, visual,
 **English–Spanish plant care poster** intended to be easy to understand and practical
 for everyday use.
 

@@ -18,3 +18,8 @@ visual communication, accessibility, and user-centered design.
 - Bilingual communication (English/Spanish)
 - Visual information design
 - Public-facing educational materials
+
+## Poster
+- [indoor-plant-care-guide-en (PNG)](indoor-plant-guide-en.png)
+- [indoor-plant-care-guide-es (PNG)](indoor-plant-care-guide-es.png)
+

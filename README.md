@@ -19,7 +19,7 @@ visual communication, accessibility, and user-centered design.
 - Visual information design
 - Public-facing educational materials
 
-## Posters
-- [indoor-plant-care-guide-en (PNG)](indoor-plant-guide-en.png)
-- [indoor-plant-care-guide-es (PNG)](indoor-plant-care-guide-es.png)
+  ## Posters
+  - [indoor-plant-care-guide-en (PNG)](indoor-plant-guide-en.png)
+  - [indoor-plant-care-guide-es (PNG)](indoor-plant-care-guide-es.png)
 

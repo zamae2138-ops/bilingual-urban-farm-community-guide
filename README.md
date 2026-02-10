@@ -18,6 +18,9 @@ visual communication, accessibility, and user-centered design.
 - Bilingual communication (English/Spanish)
 - Visual information design
 - Public-facing educational materials
+  
+- **Date:** July 2022 (Community Urban Farming Program)
+
 
   ## Posters
   - [indoor-plant-care-guide-en (PNG)](indoor-plant-guide-en.png)
